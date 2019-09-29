@@ -1,0 +1,20 @@
+.Field {
+  cursor: pointer;
+  /* color: red; */
+  font-size: -webkit-xxx-large;
+  width: 100px;
+  height: 100px;
+  max-width: 200px;
+  max-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+
+  
+}
+
+.Field:hover {
+  background-color: darkgray;
+  color: black;
+}

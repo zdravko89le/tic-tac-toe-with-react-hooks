@@ -1,0 +1,17 @@
+.TableContainer {
+  height: calc(100vh - 150px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.TableHolder {
+  display: flex;
+  /* justify-content: center; */
+  flex-direction: column;
+}
+
+.TableRow {
+  display: flex;
+  flex-direction: row;
+}
